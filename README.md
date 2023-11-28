@@ -14,7 +14,7 @@ MaskRCNN-ResNet101 | 43.6 | 57.8 | 46.8 | 26.3 | |
 FCOS-ResNet50 | 42.3 | 54.2 | 45.5 | 26.4 | | 
 FCOS-ResNet101 | 43.8 | 56.4 | 47.4 | 28.8 | |
 
-## Installation for Detectron2
+## Installation
 ```
 git clone https://github.com/NotCaffee/DyRA.git
 python -m pip install -e detectron2
