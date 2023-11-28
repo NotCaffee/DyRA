@@ -1,7 +1,7 @@
 # DyRA
 
 This repository is an implemented version of DyRA based on detectron2.\
-Our work was implemented on RetinaNet, Faster-RCNN, Mask-RCNN, FCOS, and DETR(still in training).
+Our work supports RetinaNet, Faster-RCNN, Mask-RCNN, FCOS, and DETR(still in training).
 
 | Model | AP | AP_l | AP_m | AP_s | weights |
 |---|---|---|---|---|---|
